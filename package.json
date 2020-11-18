@@ -1,0 +1,13 @@
+{
+  "name": "social_network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "mob": "bash ./mob.sh $@"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
